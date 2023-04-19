@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Olha O Buraco</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember</string>
+    <string name="login">Login</string>
+    <string name="msgError">User error</string>
+    <string name="textoExemplo">This app aims to make the population identify defects on public roads in real time.</string>
+</resources>

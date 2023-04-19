@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Olha o Buraco</string>
+    <string name="name">Nome</string>
+    <string name="password">Senha</string>
+    <string name="remember">Remember</string>
+    <string name="login">Login</string>
+    <string name="textoExemplo">Esse app tem por objetivo fazer com que a população identifique em tempo real defeitos em vias públicas.</string>
+    <string name="msgError">Usuário incorreto</string>
+</resources>

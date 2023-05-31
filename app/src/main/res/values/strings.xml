@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Olha O Buraco</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember</string>
+    <string name="login">Login</string>
+    <string name="msgError">User error</string>
+    <string name="textoExemplo">This app aims to make the population identify and report defects on public roads in real time.</string>
+    <string name="bem_vindo">Bem Vindo:</string>
+    <string name="cadastre_sua_ocorrencia">Cadastre Sua Ocorrência</string>
+    <string name="capivara"/>
+    <string name="ocorrencias">...</string>
+    <string name="ocorrencia">...</string>
+    <string name="endereco">...</string>
+    <string name="cep">...</string>
+    <string name="cadastrar">...</string>
+
+
+</resources>
